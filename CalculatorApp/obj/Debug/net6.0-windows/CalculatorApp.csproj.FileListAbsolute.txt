@@ -1,0 +1,16 @@
+C:\Users\Falio\source\repos\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.Form1.resources
+C:\Users\Falio\source\repos\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.csproj.GenerateResource.cache
+C:\Users\Falio\source\repos\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Falio\source\repos\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.AssemblyInfoInputs.cache
+C:\Users\Falio\source\repos\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.AssemblyInfo.cs
+C:\Users\Falio\source\repos\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\Falio\source\repos\CalculatorApp\bin\Debug\net6.0-windows\CalculatorApp.exe
+C:\Users\Falio\source\repos\CalculatorApp\bin\Debug\net6.0-windows\CalculatorApp.deps.json
+C:\Users\Falio\source\repos\CalculatorApp\bin\Debug\net6.0-windows\CalculatorApp.runtimeconfig.json
+C:\Users\Falio\source\repos\CalculatorApp\bin\Debug\net6.0-windows\CalculatorApp.dll
+C:\Users\Falio\source\repos\CalculatorApp\bin\Debug\net6.0-windows\CalculatorApp.pdb
+C:\Users\Falio\source\repos\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.dll
+C:\Users\Falio\source\repos\CalculatorApp\obj\Debug\net6.0-windows\refint\CalculatorApp.dll
+C:\Users\Falio\source\repos\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.pdb
+C:\Users\Falio\source\repos\CalculatorApp\obj\Debug\net6.0-windows\CalculatorApp.genruntimeconfig.cache
+C:\Users\Falio\source\repos\CalculatorApp\obj\Debug\net6.0-windows\ref\CalculatorApp.dll
