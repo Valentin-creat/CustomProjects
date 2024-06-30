@@ -1,0 +1,16 @@
+C:\Users\Falio\source\repos\QuizzApp\bin\Debug\net6.0-windows\QuizzApp.exe
+C:\Users\Falio\source\repos\QuizzApp\bin\Debug\net6.0-windows\QuizzApp.deps.json
+C:\Users\Falio\source\repos\QuizzApp\bin\Debug\net6.0-windows\QuizzApp.runtimeconfig.json
+C:\Users\Falio\source\repos\QuizzApp\bin\Debug\net6.0-windows\QuizzApp.dll
+C:\Users\Falio\source\repos\QuizzApp\bin\Debug\net6.0-windows\QuizzApp.pdb
+C:\Users\Falio\source\repos\QuizzApp\obj\Debug\net6.0-windows\QuizzApp.Form1.resources
+C:\Users\Falio\source\repos\QuizzApp\obj\Debug\net6.0-windows\QuizzApp.csproj.GenerateResource.cache
+C:\Users\Falio\source\repos\QuizzApp\obj\Debug\net6.0-windows\QuizzApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Falio\source\repos\QuizzApp\obj\Debug\net6.0-windows\QuizzApp.AssemblyInfoInputs.cache
+C:\Users\Falio\source\repos\QuizzApp\obj\Debug\net6.0-windows\QuizzApp.AssemblyInfo.cs
+C:\Users\Falio\source\repos\QuizzApp\obj\Debug\net6.0-windows\QuizzApp.csproj.CoreCompileInputs.cache
+C:\Users\Falio\source\repos\QuizzApp\obj\Debug\net6.0-windows\QuizzApp.dll
+C:\Users\Falio\source\repos\QuizzApp\obj\Debug\net6.0-windows\refint\QuizzApp.dll
+C:\Users\Falio\source\repos\QuizzApp\obj\Debug\net6.0-windows\QuizzApp.pdb
+C:\Users\Falio\source\repos\QuizzApp\obj\Debug\net6.0-windows\QuizzApp.genruntimeconfig.cache
+C:\Users\Falio\source\repos\QuizzApp\obj\Debug\net6.0-windows\ref\QuizzApp.dll
