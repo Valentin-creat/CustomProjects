@@ -1,0 +1,16 @@
+C:\Users\Falio\source\repos\RandomJokesApp\bin\Debug\net6.0-windows\RandomJokesApp.exe
+C:\Users\Falio\source\repos\RandomJokesApp\bin\Debug\net6.0-windows\RandomJokesApp.deps.json
+C:\Users\Falio\source\repos\RandomJokesApp\bin\Debug\net6.0-windows\RandomJokesApp.runtimeconfig.json
+C:\Users\Falio\source\repos\RandomJokesApp\bin\Debug\net6.0-windows\RandomJokesApp.dll
+C:\Users\Falio\source\repos\RandomJokesApp\bin\Debug\net6.0-windows\RandomJokesApp.pdb
+C:\Users\Falio\source\repos\RandomJokesApp\obj\Debug\net6.0-windows\RandomJokesApp.Form1.resources
+C:\Users\Falio\source\repos\RandomJokesApp\obj\Debug\net6.0-windows\RandomJokesApp.csproj.GenerateResource.cache
+C:\Users\Falio\source\repos\RandomJokesApp\obj\Debug\net6.0-windows\RandomJokesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Falio\source\repos\RandomJokesApp\obj\Debug\net6.0-windows\RandomJokesApp.AssemblyInfoInputs.cache
+C:\Users\Falio\source\repos\RandomJokesApp\obj\Debug\net6.0-windows\RandomJokesApp.AssemblyInfo.cs
+C:\Users\Falio\source\repos\RandomJokesApp\obj\Debug\net6.0-windows\RandomJokesApp.csproj.CoreCompileInputs.cache
+C:\Users\Falio\source\repos\RandomJokesApp\obj\Debug\net6.0-windows\RandomJokesApp.dll
+C:\Users\Falio\source\repos\RandomJokesApp\obj\Debug\net6.0-windows\refint\RandomJokesApp.dll
+C:\Users\Falio\source\repos\RandomJokesApp\obj\Debug\net6.0-windows\RandomJokesApp.pdb
+C:\Users\Falio\source\repos\RandomJokesApp\obj\Debug\net6.0-windows\RandomJokesApp.genruntimeconfig.cache
+C:\Users\Falio\source\repos\RandomJokesApp\obj\Debug\net6.0-windows\ref\RandomJokesApp.dll
